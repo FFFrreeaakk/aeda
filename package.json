@@ -1,0 +1,14 @@
+{
+  "main": "app.js",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "license": "MIT"
+}
